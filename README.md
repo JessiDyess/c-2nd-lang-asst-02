@@ -40,9 +40,9 @@ Second programming assignment for learning C as a second programming language.
 ### Extension
 
 Your choice here...
-
+I chose #2  
 ### Implementation notes
 
 Your description here. Code samples will be appreciated...
-
+I used a traversal node to cycle through each element of the lista nd compare the data in the element to the data passed n at the call. If the data matched the node was deleted by connecting its previous node to its next node.
 
